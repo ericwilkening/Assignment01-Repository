@@ -5,7 +5,7 @@
  **/
 #include<stdio.h>
 int main(int argc, char **argv){
-  printf("Eric Wilkening\nSamuel Curley");
+  printf("Eric Wilkening\nSamuel Curley\n Parth Patel");
 return 0;
 }
 //Sam Curley has seen and confirmed this is a working hello world program
